@@ -67,7 +67,7 @@ const sampleDreams: Dream[] = [
       ],
       emotions: ['Wonder', 'Curiosity', 'Surprise'],
       themes: ['Self-discovery', 'Expansion', 'Hidden potential'],
-      summary: 'This dream suggests you're discovering new aspects of yourself. The house represents your mind, and the expanding rooms indicate there's more to you than you've realized.',
+      summary: "This dream suggests you're discovering new aspects of yourself. The house represents your mind, and the expanding rooms indicate there's more to you than you've realized.",
     },
     imageUrl: 'https://images.unsplash.com/photo-1505692952047-1a78307da8f2?q=80&w=2071',
     notes: 'This dream occurred after I started my new creative project.',
